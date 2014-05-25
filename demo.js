@@ -24,11 +24,11 @@ define([
   });
 
   return new Router({
-      subControllers: {
-        home: homeController,
-        products: productsController,
-        account: accountController
-      }
+    subControllers: {
+      home: homeController,
+      products: productsController,
+      account: accountController
+    }
   });
 
 });
