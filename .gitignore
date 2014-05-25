@@ -1,0 +1,37 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+#Visual Studio files
+*.[Oo]bj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.vcproj.*.user
+ipch/
+*.idea/
+
+# Office Temp Files
+~$*
+bin
+obj
